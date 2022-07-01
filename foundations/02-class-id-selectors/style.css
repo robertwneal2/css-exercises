@@ -1,0 +1,19 @@
+p {
+    background-color: rgb(249, 138, 138);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.big-p {
+    font-size: 24px;
+}
+
+#big-blue {
+    font-size: 36px;
+    color: #0000ff;
+}
+
+#medium-green {
+    background-color: hsl(120, 73%, 75%);
+    font-size: 24px;
+    font-weight: 700;
+}
