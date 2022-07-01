@@ -1,0 +1,13 @@
+.boring, .fun {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', serif;
+}
+
+.boring {
+    background-color: black;
+    color: white;
+}
+
+.fun {
+    background-color: yellow;
+}
